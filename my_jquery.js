@@ -13,3 +13,9 @@ jQuery.data(document,"lover");
 
 jQuery.removeData(document,"lover");
 
+/* Use jQuery in the window console */
+var jq = document.createElement("script");
+jq.src= "http://code.jquery.com/jquery-1.11.2.min.js";
+var head =document.getElementsByTagName("head")[0];
+head.appendChild(jq);
+
