@@ -2,3 +2,4 @@
 - https://github.com/melvin0008/ionic-socketio-chat-client
 - https://github.com/JoshSGman/ionic-shop
 - https://github.com/scottopolis/wpIonic
+- https://github.com/nraboy/ubuntu-ionic-installer
