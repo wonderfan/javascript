@@ -3,3 +3,4 @@
 - https://github.com/JoshSGman/ionic-shop
 - https://github.com/scottopolis/wpIonic
 - https://github.com/nraboy/ubuntu-ionic-installer
+- https://github.com/lanceli/awesome-ionic
