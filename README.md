@@ -12,6 +12,7 @@ Explore the power of JavaScript and put them into best practice
 ### NodeJS and Native Mobile APP
 
 - [ionic](http://ionic.io)
+- [react](https://github.com/facebook/react)
 
 
 ### The demo and practise
