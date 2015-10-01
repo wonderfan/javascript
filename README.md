@@ -15,6 +15,7 @@ Explore the power of JavaScript and put them into best practice
 - [react](https://github.com/facebook/react)
 
 
-### The demo and practise
+### The good practise
 
 - [backbone](http://backbonejs.org/examples/todos/index.html)
+- [angular-kendo](https://github.com/kendo-labs/angular-kendo)
