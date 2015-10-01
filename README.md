@@ -13,6 +13,7 @@ Explore the power of JavaScript and put them into best practice
 
 - [ionic](http://ionic.io)
 - [react](https://github.com/facebook/react)
+- [kendo-ui](https://github.com/kendo-labs/bower-kendo-ui)
 
 
 ### The good practise
