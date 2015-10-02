@@ -1,4 +1,4 @@
-*** Three important objects
+===Three important objects
 
 - element and attrs;
 - scope;
