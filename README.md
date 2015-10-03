@@ -2,7 +2,7 @@
 
 Explore the power of JavaScript and put them into best practice
 
-### The amesome css and js repository:
+### The Amesome Repository:
 
 - [animation](https://github.com/daneden/animate.css)
 - [wp responsive theme](https://github.com/eddiemachado/bones)
@@ -16,7 +16,7 @@ Explore the power of JavaScript and put them into best practice
 - [kendo-ui](https://github.com/kendo-labs/bower-kendo-ui)
 
 
-### The good practise
+### The Good Practise
 
 - [backbone](http://backbonejs.org/examples/todos/index.html)
 - [angular-kendo](https://github.com/kendo-labs/angular-kendo)
