@@ -10,3 +10,6 @@
 
 - use mock library
 - use data.json
+
+
+### How to manage large libraries
