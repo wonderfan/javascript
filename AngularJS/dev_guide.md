@@ -13,3 +13,8 @@
 
 
 ### How to manage large libraries
+
+- package.json
+- bower.json
+
+
