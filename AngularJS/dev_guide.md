@@ -17,4 +17,7 @@
 - package.json
 - bower.json
 
+### Development utility 
 
+- watch, apply,digest methods on scope;
+- jQueryLite's scope,controller,inject and data interface;
