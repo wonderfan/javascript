@@ -4,6 +4,7 @@
 - scope;
 - controller;
 - other objects from third-party library
+- create the controller instance with the locals variable
 
 
 ### Data Mock
