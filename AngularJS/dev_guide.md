@@ -6,6 +6,7 @@
 - other objects from third-party library
 - create the controller instance with the locals variable
 - include and transclude
+- ng model and bind
 
 
 ### Data Mock
