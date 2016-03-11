@@ -7,6 +7,7 @@
 - create the controller instance with the locals variable
 - include and transclude
 - ng model and bind
+- sce and interpolate
 
 
 ### Data Mock
