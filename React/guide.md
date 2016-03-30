@@ -5,6 +5,7 @@
 3. Data drives DOM states;
 4. Create component class, create element and create DOM object;
 5. three factors for rendering: element, container and callback function;
+6. component and dom render;
 
 ### The utilities
 
