@@ -3,3 +3,5 @@
 - process
 - child-spawn
 - util
+- http
+- os
