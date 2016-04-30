@@ -5,3 +5,4 @@
 - util
 - http
 - os
+- net
