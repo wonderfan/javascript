@@ -6,3 +6,11 @@
 - http
 - os
 - net
+
+
+### The internal fact
+
+- environment
+- binding
+- process
+- module
