@@ -20,6 +20,7 @@
 
 - express
 - sails
+- loopback
 
 
 ### ORM
