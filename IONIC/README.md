@@ -8,3 +8,8 @@
 - ionic services
 - ionic utility
 - ionic angular (mainly directive and controller)
+
+### Routing
+
+-  state definition
+-  view directive
