@@ -1,4 +1,4 @@
-### The important module interface
+### The important module interfaces
 
 - provide
 - factory
