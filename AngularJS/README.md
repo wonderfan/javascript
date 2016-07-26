@@ -7,3 +7,8 @@
 - constant
 - controller
 - component
+
+### The pre-defined objects
+- $rootScope
+- $scope
+- $controller
