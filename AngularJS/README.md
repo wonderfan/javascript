@@ -12,3 +12,4 @@
 - $rootScope
 - $scope
 - $controller
+- $injector
