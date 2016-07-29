@@ -13,3 +13,4 @@
 - $scope
 - $controller
 - $injector
+- $parse
