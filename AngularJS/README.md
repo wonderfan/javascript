@@ -14,3 +14,5 @@
 - $controller
 - $injector
 - $parse
+- $interpolate
+
