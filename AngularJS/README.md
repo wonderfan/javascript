@@ -15,4 +15,5 @@
 - $injector
 - $parse
 - $interpolate
+- $http
 
