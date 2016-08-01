@@ -16,4 +16,5 @@
 - $parse
 - $interpolate
 - $http
+- $resource
 
