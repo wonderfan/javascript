@@ -17,4 +17,5 @@
 - $interpolate
 - $http
 - $resource
+- $templateCache
 
