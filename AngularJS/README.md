@@ -19,3 +19,5 @@
 - $resource
 - $templateCache
 
+### The pre-defined directives
+- data-ng-if
