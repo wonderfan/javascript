@@ -21,3 +21,7 @@
 
 ### The pre-defined directives
 - data-ng-if
+
+
+### Features
+- drag and drop
