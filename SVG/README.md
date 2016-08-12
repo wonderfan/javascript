@@ -7,3 +7,4 @@
 - svg
 - svg.js
 - d3.js
+- jquery svg plugin
