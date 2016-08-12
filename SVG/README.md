@@ -1,5 +1,6 @@
 ### The Core Points
 - svg element
+- defs element
 
 
 
