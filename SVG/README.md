@@ -1,6 +1,7 @@
 ### The Core Points
 - svg element
 - defs element
+- svg animation by gsap
 
 
 
