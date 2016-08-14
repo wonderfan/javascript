@@ -9,4 +9,5 @@
 - svg
 - svg.js
 - d3.js
+- snap.js
 - jquery svg plugin
