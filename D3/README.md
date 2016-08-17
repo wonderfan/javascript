@@ -10,3 +10,5 @@
 ### SVG
 - defs
 - use
+- g
+- path
