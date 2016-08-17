@@ -5,6 +5,7 @@
 - enter
 - append
 - exit
+- scale
 
 ### SVG
 - defs
