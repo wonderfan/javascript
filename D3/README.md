@@ -6,6 +6,7 @@
 - append
 - exit
 - scale
+- xhr
 
 ### SVG
 - defs
