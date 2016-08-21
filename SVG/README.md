@@ -4,6 +4,7 @@
 - svg animation by gsap
 - svgwrite
 - pygal
+- canvas
 
 
 
