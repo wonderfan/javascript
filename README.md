@@ -18,6 +18,7 @@ Explore the power of JavaScript and put them into best practice
 
 ### The Good Practise
 
+- [vuejs](vuejs.org)
 - [backbone](http://backbonejs.org/examples/todos/index.html)
 - [angular-kendo](https://github.com/kendo-labs/angular-kendo)
-- [vuejs](vuejs.org)
+
