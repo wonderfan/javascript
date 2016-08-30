@@ -18,9 +18,11 @@
 - $http
 - $resource
 - $templateCache
+- $location
 
 ### The pre-defined directives
 - data-ng-if
+- data-ng-show
 
 
 ### Features
