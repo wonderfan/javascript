@@ -27,3 +27,4 @@
 
 ### Features
 - drag and drop
+- controllerAs syntax
