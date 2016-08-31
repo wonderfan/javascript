@@ -7,6 +7,7 @@
 - constant
 - controller
 - component
+- directive
 
 ### The pre-defined objects
 - $rootScope
