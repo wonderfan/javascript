@@ -24,6 +24,7 @@
 ### The pre-defined directives
 - data-ng-if
 - data-ng-show
+- data-ng-init
 
 
 ### Features
