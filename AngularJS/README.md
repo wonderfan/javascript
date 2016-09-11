@@ -25,6 +25,7 @@
 - data-ng-if
 - data-ng-show
 - data-ng-init
+- data-ng-model
 
 
 ### Features
