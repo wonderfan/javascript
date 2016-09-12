@@ -20,12 +20,14 @@
 - $resource
 - $templateCache
 - $location
+- $asynValidators
 
 ### The pre-defined directives
 - data-ng-if
 - data-ng-show
 - data-ng-init
 - data-ng-model
+- data-ng-change
 
 
 ### Features
