@@ -21,6 +21,7 @@
 - $templateCache
 - $location
 - $asynValidators
+- $messages
 
 ### The pre-defined directives
 - data-ng-if
