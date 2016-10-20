@@ -29,6 +29,7 @@
 - data-ng-init
 - data-ng-model
 - data-ng-change
+- data-ng-repeat
 
 
 ### Features
