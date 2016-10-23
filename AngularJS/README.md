@@ -8,6 +8,7 @@
 - controller
 - component
 - directive
+- scoped context
 
 ### The pre-defined objects
 - $rootScope
