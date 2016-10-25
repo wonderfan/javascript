@@ -22,3 +22,8 @@ Explore the power of JavaScript and put them into best practice
 - [backbone](http://backbonejs.org/examples/todos/index.html)
 - [angular-kendo](https://github.com/kendo-labs/angular-kendo)
 
+### Design Patterns
+
+- Creational Pattern
+- Structural Pattern
+- Behavioral Pattern
