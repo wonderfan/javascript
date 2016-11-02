@@ -32,6 +32,9 @@
 - data-ng-change
 - data-ng-repeat
 
+### Highlight Points
+- $resource mechanism;
+- angular table directive,controller and table parameters manager;
 
 ### Features
 - drag and drop
