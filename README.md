@@ -27,3 +27,10 @@ Explore the power of JavaScript and put them into best practice
 - Creational Pattern
 - Structural Pattern
 - Behavioral Pattern
+
+
+### Language Basis
+
+- analogy : callback and promise
+- function declaration vs function expression
+- identifier and literal
