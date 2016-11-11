@@ -7,3 +7,10 @@
 ### UI Mockup
 
 - tools
+
+
+### See Color Effect
+
+```
+document.body.style.backgroundColor = "#000";
+```
