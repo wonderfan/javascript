@@ -35,7 +35,8 @@
 ### Highlight Points
 - $resource mechanism;
 - angular table directive,controller and table parameters manager;
-- run the compile function in the directive and get the pre and post link function
+- run the compile function in the directive and get the pre and post link function;
+- $compileProvider instance and the object from its $get method;
 
 ### Features
 - drag and drop
