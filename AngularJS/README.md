@@ -39,6 +39,7 @@
 - $compileProvider instance and the object from its $get method;
 - provide cache, provider injector and instance injector;
 - module instance and its invoke queue,run block,config block;
+- angular init function, bootstrap function and defer bootstrap
 
 
 ### Features
