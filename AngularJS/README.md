@@ -37,6 +37,9 @@
 - angular table directive,controller and table parameters manager;
 - run the compile function in the directive and get the pre and post link function;
 - $compileProvider instance and the object from its $get method;
+- provide cache, provider injector and instance injector;
+- module instance and its invoke queue,run block,config block;
+
 
 ### Features
 - drag and drop
