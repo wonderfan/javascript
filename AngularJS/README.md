@@ -23,6 +23,8 @@
 - $location
 - $asynValidators
 - $messages
+- $element
+- $attributes
 
 ### The pre-defined directives
 - data-ng-if
