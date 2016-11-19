@@ -33,4 +33,7 @@ Explore the power of JavaScript and put them into best practice
 
 - analogy : callback and promise
 - function declaration vs function expression
-- identifier and literal
+- identifier and literal value;
+- pass by value and pass by reference;
+- container function and nested functions;
+- innner function and closure;
