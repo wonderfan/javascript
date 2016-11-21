@@ -25,6 +25,7 @@
 - $messages
 - $element
 - $attributes
+- $compile
 
 ### The pre-defined directives
 - data-ng-if
