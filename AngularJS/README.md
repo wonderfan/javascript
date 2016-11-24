@@ -26,6 +26,7 @@
 - $element
 - $attributes
 - $compile
+- $httpProvider and interceptors
 
 ### The pre-defined directives
 - data-ng-if
