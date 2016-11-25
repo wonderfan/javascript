@@ -27,6 +27,7 @@
 - $attributes
 - $compile
 - $httpProvider and interceptors
+- event on,emit and broadcast
 
 ### The pre-defined directives
 - data-ng-if
