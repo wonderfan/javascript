@@ -26,7 +26,8 @@
 - $element
 - $attributes
 - $compile
-- $httpProvider and interceptors
+- $httpProvider and interceptors;
+- $timeout and $interval
 - event on,emit and broadcast
 
 ### The pre-defined directives
