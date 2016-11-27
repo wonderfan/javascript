@@ -27,8 +27,9 @@
 - $attributes
 - $compile
 - $httpProvider and interceptors;
-- $timeout and $interval
-- event on,emit and broadcast
+- $timeout and $interval;
+- event on,emit and broadcast;
+- birectional binding;
 
 ### The pre-defined directives
 - data-ng-if
