@@ -48,6 +48,7 @@
 - module instance and its invoke queue,run block,config block;
 - angular init function, bootstrap function and defer bootstrap;
 - parse the expression and evaluate the expression;
+- two-ways binding;
 
 
 ### Features
