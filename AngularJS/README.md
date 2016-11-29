@@ -30,6 +30,7 @@
 - $timeout and $interval;
 - event on,emit and broadcast;
 - birectional binding;
+- $eval;
 
 ### The pre-defined directives
 - data-ng-if
