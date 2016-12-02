@@ -31,6 +31,7 @@
 - event on,emit and broadcast;
 - birectional binding;
 - $eval;
+- $translate
 
 ### The pre-defined directives
 - data-ng-if
