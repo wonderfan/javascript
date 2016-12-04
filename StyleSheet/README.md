@@ -9,3 +9,8 @@
 -  transition
 -  animation
 -  transformation
+
+### CSS Property
+
+- overflow
+- outline
