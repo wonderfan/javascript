@@ -1,6 +1,7 @@
 ### Basic Guide
 
 - box model;
+- flex box model;
 - layout;
 
 
