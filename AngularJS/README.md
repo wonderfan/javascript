@@ -51,6 +51,8 @@
 - angular init function, bootstrap function and defer bootstrap;
 - parse the expression and evaluate the expression;
 - two-ways binding;
+- scope internal relationship;
+- isolate scope bindings for directive
 
 
 ### Features
