@@ -3,3 +3,5 @@
 ### Core Concepts
 
 - React Element
+- React Component
+- React DOM
