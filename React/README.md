@@ -5,6 +5,8 @@
 - React Element
 - React Component
 - React DOM
+- Component Properties;
+- Component State
 
 ### Programming Paradiam
 
