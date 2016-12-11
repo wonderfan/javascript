@@ -6,7 +6,8 @@
 - React Component
 - React DOM
 - Component Properties;
-- Component State
+- Component State;
+- Component LiftCycle;
 
 ### Programming Paradiam
 
