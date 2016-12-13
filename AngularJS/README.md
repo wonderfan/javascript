@@ -55,6 +55,10 @@
 - scope internal relationship;
 - isolate scope bindings for directive
 
+### jLite
+
+- fn mechanism;
+- data container;
 
 ### Features
 - drag and drop
