@@ -59,6 +59,7 @@
 
 - fn mechanism;
 - data container;
+- utility function and objects;
 
 ### Features
 - drag and drop
