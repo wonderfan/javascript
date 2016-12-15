@@ -1,0 +1,5 @@
+# jQuery Wisdom
+
+### functionalities
+
+* widget
