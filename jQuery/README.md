@@ -2,4 +2,7 @@
 
 ### functionalities
 
-* widget
+* widget static function
+* Widget construction function
+* fn bridge
+* data storage
