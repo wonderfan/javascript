@@ -21,3 +21,5 @@
 ### CSS Framework
 
 - bootstrap typography
+- bootstrap grid system
+- column order
