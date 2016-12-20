@@ -3,6 +3,7 @@
 - box model;
 - flex box model;
 - layout;
+- elemen: inline,inline-block,block
 
 
 ### Three elements
