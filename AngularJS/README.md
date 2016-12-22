@@ -33,6 +33,7 @@
 - $eval;
 - $translate;
 - transition and animation;
+- $q
 
 ### The pre-defined directives
 - data-ng-if
