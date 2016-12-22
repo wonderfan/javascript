@@ -37,3 +37,7 @@ Explore the power of JavaScript and put them into best practice
 - pass by value and pass by reference;
 - container function and nested functions;
 - innner function and closure;
+
+### Promise
+
+- [Promises/A+](https://promisesaplus.com)
