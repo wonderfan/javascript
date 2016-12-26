@@ -56,6 +56,7 @@
 - scope internal relationship;
 - isolate scope bindings for directive;
 - scope property value: false,true and hash object.
+- component writing style guide
 
 ### jLite
 
