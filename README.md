@@ -41,3 +41,4 @@ Explore the power of JavaScript and put them into best practice
 ### Promise
 
 - [Promises/A+](https://promisesaplus.com)
+- Defer
