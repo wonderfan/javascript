@@ -41,4 +41,5 @@ Explore the power of JavaScript and put them into best practice
 ### Promise
 
 - [Promises/A+](https://promisesaplus.com)
-- Defer
+- Defer and then,when
+- success callback and failure callback
