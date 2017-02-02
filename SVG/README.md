@@ -11,6 +11,7 @@
 - d3.js
 - snap.js
 - jquery svg plugin
+- [raphael](https://github.com/DmitryBaranovskiy/raphael)
 
 ### Usage Scenario
 - logo
