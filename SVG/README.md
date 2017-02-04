@@ -17,3 +17,8 @@
 - logo
 - icon
 - banner
+
+
+### Deep Learning
+
+- [SVG Specification](https://www.w3.org/TR/SVG/intro.html)
