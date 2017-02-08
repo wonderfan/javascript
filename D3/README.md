@@ -12,6 +12,8 @@
 - exit
 - scale
 - xhr
+- geometry
+- math
 
 ### SVG
 - defs
