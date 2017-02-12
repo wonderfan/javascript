@@ -1,6 +1,10 @@
 ### The Core Points
 - svg element
 - defs element
+- g element
+- use element
+- linearGradient element
+- pattern element
 - svg animation by gsap
 - svgwrite
 - pygal
