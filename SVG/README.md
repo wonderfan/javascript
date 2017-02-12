@@ -5,6 +5,7 @@
 - use element
 - linearGradient element
 - pattern element
+- use element
 - svg animation by gsap
 - svgwrite
 - pygal
