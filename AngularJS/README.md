@@ -71,3 +71,4 @@
 
 ### Theme
 - [angular-themer](https://github.com/fdomig/angular-themer)
+- [material](https://github.com/angular/material)
