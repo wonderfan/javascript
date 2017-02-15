@@ -67,3 +67,7 @@
 ### Features
 - drag and drop
 - controllerAs syntax
+
+
+### Theme
+- [angular-themer](https://github.com/fdomig/angular-themer)
