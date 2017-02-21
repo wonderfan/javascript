@@ -2,4 +2,5 @@
 
 ## JavaScript
 
-- `<<Learning JavaScript>>`
+- `"Learning JavaScript"`
+- `"Async JavaScript"`
