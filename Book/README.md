@@ -2,5 +2,10 @@
 
 ## JavaScript
 
-- `"Learning JavaScript"`
-- `"Async JavaScript"`
+- Learning JavaScript
+- Async JavaScript
+
+## CSS
+
+- Transition and Animation
+
