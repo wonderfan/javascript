@@ -4,6 +4,7 @@
 
 - Learning JavaScript
 - Async JavaScript
+- Learn Ionic
 
 ## CSS
 
