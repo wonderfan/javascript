@@ -4,6 +4,7 @@
 - g element
 - use element
 - linearGradient element
+- path description
 - pattern element
 - use element
 - svg animation by gsap
