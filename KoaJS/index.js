@@ -4,7 +4,9 @@ const Router = require("koa-router");
 const app = new Koa();
 app.use(logger());
 
-const router = new Router();
+const router = new Router({
+    prefix: "/api"
+});
 router.get("/", (ctx, next) => {
     ctx.body = "hello world";
 });
