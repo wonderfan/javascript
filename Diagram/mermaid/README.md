@@ -10,7 +10,7 @@ digraph {
 ```
 
 ```mermaid
-flowchat
+flowchart
   mermaid --> docs & packages & scripts
   packages --> mermaid-src & mermaid-examples
 ```
