@@ -33,3 +33,12 @@ classDiagram
 flowchart
   init --> setConfig & clear & setGen
 ```
+
+### Flow Chart
+
+#### file `flowRenderer.js`
+
+```mermaid
+flowchart
+  setConf --> keys[iterate keys] --> for[ for loop] --> assign[copy key/value into configuration]
+```
