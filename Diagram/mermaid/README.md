@@ -27,4 +27,7 @@ classDiagram
     flowRenderer renderer
     init(config Config)
   }
+
+flowchart
+  init --> setConfig & clear & setGen
 ```
