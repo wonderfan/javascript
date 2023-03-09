@@ -1,6 +1,6 @@
 # Code Overview
 
-## Directory
+## Root Directory
 
 ```dot
 digraph {
@@ -13,4 +13,18 @@ digraph {
 flowchart
   mermaid --> docs & packages & scripts
   packages --> mermaid-src & mermaid-examples
+```
+
+## Packages Directory
+
+### file `flowDiagram.ts`
+
+```mermaid
+classDiagram
+  class diagram {
+    flowParser parser
+    flowDb db
+    flowRenderer renderer
+    init(config Config)
+  }
 ```
