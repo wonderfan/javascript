@@ -27,7 +27,9 @@ classDiagram
     flowRenderer renderer
     init(config Config)
   }
+```
 
+```mermaid
 flowchart
   init --> setConfig & clear & setGen
 ```
