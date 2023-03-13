@@ -57,3 +57,12 @@ classDiagram
         10. The test is used to enforce the design specification.
     }
 ```
+```mermaid
+classDiagram
+    class `YACC` {
+        1. Rules that describe the input elements.
+        2. The code that is to be invoked when one rule is recognized.
+        3. A definition or declaration of a low-level scanner that examines the input.
+    }
+    Grammer -- Action
+```    
