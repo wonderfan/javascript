@@ -43,7 +43,6 @@ mindmap
                     head
                 parameter
                     query
-                    parameter
                 request
                 response
         provider
