@@ -18,3 +18,62 @@ mindmap
             declare
             export
 ```            
+
+## nest
+
+```mermaid
+mindmap
+    nest
+        framework
+            express
+            fastify
+        factory
+            application
+        routing
+            controller
+                class
+                decorator
+                method
+                    get
+                    post
+                    put
+                    delete
+                    patch
+                    options
+                    head
+                parameter
+                    query
+                    parameter
+                request
+                response
+        provider
+            service
+            repository
+            factory
+            helper
+        pipe
+            transformation
+            validation
+        life-cycle
+            initializing
+            running
+            terminating
+        technique
+            configuration
+            database
+            caching
+            serialization
+            version
+            scheduling
+            queue
+            logging
+            event
+            http
+            session
+            performance
+        security
+            authentication
+            authorization
+            encryption
+            rate limiting
+```
