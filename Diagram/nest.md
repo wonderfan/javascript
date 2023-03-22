@@ -48,12 +48,11 @@ mindmap
         provider
             service
             repository
-            factory
             helper
         pipe
             transformation
             validation
-        life-cycle
+        life cycle
             initializing
             running
             terminating
